@@ -1,0 +1,35 @@
+GET
+
+http://localhost:8080/primes/random/100
+
+%%%
+
+# Duration: 31 ms
+# URL: http://localhost:8080/primes/random/100
+
+# HTTP/1.1 200
+
+@Content-Type: application/json
+@Transfer-Encoding: chunked
+@Date: Thu, 08 Jul 2021 11:08:54 GMT
+@Keep-Alive: timeout=60
+@Connection: keep-alive
+
+[
+  11,
+  13,
+  17,
+  19,
+  23,
+  29,
+  31,
+  37,
+  41,
+  43,
+  47,
+  53,
+  59,
+  61,
+  67,
+  71
+]
