@@ -1,6 +1,6 @@
 # GraalVM Demos
 
-This repository intends to benchmark dmeo java based applications on GraalVM & thus leveraging the capabilities  of
+This repository intends to benchmark demo java based applications on GraalVM & thus leveraging the capabilities  of
  GraalVM.
  
  ### Preparation
